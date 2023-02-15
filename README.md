@@ -1,1 +1,2 @@
 # ApothekeDB
+# Mysql jdbc project
